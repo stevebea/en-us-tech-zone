@@ -156,3 +156,5 @@ Actually – performing this step not only doesn’t have any effect on overall 
 ### Web Browsers
 
 ## Summary
+
+## Reset the Citrix ADC lights out management (LOM)
