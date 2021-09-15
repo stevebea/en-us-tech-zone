@@ -12,11 +12,16 @@ tz_products: citrix-analytics;citrix-content-collaboration;citrix-endpoint-manag
 ## Overview
 Citrix Endpoint Management is an industry acknowledged Unified Endpoint Management aka UEM solution offered through the Citrix Cloud as a Service. Unified Endpoint Management solutions offer a single uniform over-the-air management interface for mobile, laptops, PCs, and other devices like wearables and IoT endpoints. Citrix Endpoint Management provides a flexible choice in platform management, ownership models (Bring Your Own Device, Choose Your Own Device, Company Owned - Personally Enabled and Company Owned – Business Only) and delivery models for securing the endpoint, applications, the connections, and data.
 This Poc Guide provide you a guidance to prepare and deploy Citrix Endpoint Management solution with three uses cases (MDM,MDM&MAM, MDM&MAM&MicroVPN).
-Use case 1) MDM
+
+Use case n°1) MDM only
 Citrix Endpoint Management solution for MDM uses cases don't need any on-prem preparation. You can use local users of the solution to perform the enrollment of the device.
-You don't need as well bring a star certificate, this point is covered by Citrix platform.
+You don't need as well to bring a star certificate, this point is covered by Citrix platform.
+
+Use case n°2) MDM & MAM
 
 
+
+Use case n°3) MDM & MAM & MicroVPN
 First you should prepare your backend PoC environnement and install
   1. On-Prem Active Directory
   2. Install two Cloud Connector
