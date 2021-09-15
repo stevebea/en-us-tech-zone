@@ -18,8 +18,18 @@ Citrix Endpoint Management solution for MDM uses cases don't need any on-prem pr
 You don't need as well to bring a star certificate, this point is covered by Citrix platform.
 From Citrix Cloud launch Citrix Endpoint Management console:
 ![image](https://user-images.githubusercontent.com/89078107/133486451-e8246444-04f7-4b1e-90c6-eb1b4fae6b1b.png)
+
 Then click on Manage -> Users -> Add Local User (With this local user you can enroll any device with secure hub
+
 ![image](https://user-images.githubusercontent.com/89078107/133487452-64e28345-90b6-44ab-b0d8-7ebe4f905ebb.png)
+You can provide username and password information and save:
+
+![image](https://user-images.githubusercontent.com/89078107/133488092-4ffd4297-e61b-44d6-8e64-01d8cdb37c03.png)
+
+
+
+
+
 
 
 
