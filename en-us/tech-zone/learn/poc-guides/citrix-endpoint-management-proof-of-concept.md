@@ -15,19 +15,22 @@ Citrix Endpoint Management is an industry acknowledged Unified Endpoint Manageme
 # This Poc Guide provide you a guidance to prepare and deploy Citrix Endpoint Management solution with three uses cases (MDM,MDM&MAM, MDM&MAM&MicroVPN).
 
 # Use case n°1) MDM only
+
 Citrix Endpoint Management solution for MDM uses cases don't need any on-prem preparation. You can use local users of the solution to perform the enrollment of the device.
 You don't need as well to bring a star certificate, this point is covered by Citrix platform.
 From Ci# trix Cloud launch Citrix Endpoint Management console:
+
 ![image](https://user-images.githubusercontent.com/89078107/133486451-e8246444-04f7-4b1e-90c6-eb1b4fae6b1b.png)
 
 Then click on Manage -> Users -> Add Local User (With this local user you can enroll any device with secure hub
 
 ![image](https://user-images.githubusercontent.com/89078107/133487452-64e28345-90b6-44ab-b0d8-7ebe4f905ebb.png)
+
 Next you can provide username and password information and save:
 
 ![image](https://user-images.githubusercontent.com/89078107/133488092-4ffd4297-e61b-44d6-8e64-01d8cdb37c03.png)
 
-Now we should configure connectoon between Google Store & Apple Store & our CEM Tenant
+Now we should configure connection to bind Google Play Store & Apple Store to you CEM Tenant
 1. Android Enterprise Google Play
 To perform this configuration create a gmail account dedicated for this PoC
 
