@@ -1,22 +1,23 @@
 ---
 layout: doc
 h3InToc: true
-contributedBy: First Last, First2 Last2
+contributedBy: Jorge LUIS
 specialThanksTo: First Last, First2 Last2
-description: TODO insert description of article
-tz_title: TODO insert title of article
+description: PoC Guide for Citrix Endpoint Management
+tz_title: PoC Guide for Citrix Endpoint Management
 tz_products: citrix-analytics;citrix-content-collaboration;citrix-endpoint-management;citrix-networking;citrix-secure-internet-access;citrix-secure-workspace-access;citrix-service-providers;citrix-virtual-apps-and-desktops-standard-for-azure;citrix-virtual-apps-and-desktops;citrix-workspace;google-cloud-platform;other;security;third-party-content
 ---
 # PoC Guide: Citrix Endpoint Management
 
 ## Overview
 Citrix Endpoint Management is an industry acknowledged Unified Endpoint Management aka UEM solution offered through the Citrix Cloud as a Service. Unified Endpoint Management solutions offer a single uniform over-the-air management interface for mobile, laptops, PCs, and other devices like wearables and IoT endpoints. Citrix Endpoint Management provides a flexible choice in platform management, ownership models (Bring Your Own Device, Choose Your Own Device, Company Owned - Personally Enabled and Company Owned – Business Only) and delivery models for securing the endpoint, applications, the connections, and data.
-This Poc Guide provide you a guidance to prepare and deploy Citrix Endpoint Management solution with three uses cases (MDM,MDM&MAM, MDM&MAM&MicroVPN).
 
-Use case n°1) MDM only
+# This Poc Guide provide you a guidance to prepare and deploy Citrix Endpoint Management solution with three uses cases (MDM,MDM&MAM, MDM&MAM&MicroVPN).
+
+# Use case n°1) MDM only
 Citrix Endpoint Management solution for MDM uses cases don't need any on-prem preparation. You can use local users of the solution to perform the enrollment of the device.
 You don't need as well to bring a star certificate, this point is covered by Citrix platform.
-From Citrix Cloud launch Citrix Endpoint Management console:
+From Ci# trix Cloud launch Citrix Endpoint Management console:
 ![image](https://user-images.githubusercontent.com/89078107/133486451-e8246444-04f7-4b1e-90c6-eb1b4fae6b1b.png)
 
 Then click on Manage -> Users -> Add Local User (With this local user you can enroll any device with secure hub
