@@ -22,7 +22,7 @@ From Citrix Cloud launch Citrix Endpoint Management console:
 Then click on Manage -> Users -> Add Local User (With this local user you can enroll any device with secure hub
 
 ![image](https://user-images.githubusercontent.com/89078107/133487452-64e28345-90b6-44ab-b0d8-7ebe4f905ebb.png)
-You can provide username and password information and save:
+Next you can provide username and password information and save:
 
 ![image](https://user-images.githubusercontent.com/89078107/133488092-4ffd4297-e61b-44d6-8e64-01d8cdb37c03.png)
 
