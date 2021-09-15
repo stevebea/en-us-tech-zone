@@ -26,7 +26,9 @@ Next you can provide username and password information and save:
 
 ![image](https://user-images.githubusercontent.com/89078107/133488092-4ffd4297-e61b-44d6-8e64-01d8cdb37c03.png)
 
-
+Now we should configure connectoon between Google Store & Apple Store & our CEM Tenant
+1. Android Enterprise Google Play
+To perform this configuration create a gmail account dedicated for this PoC
 
 
 
