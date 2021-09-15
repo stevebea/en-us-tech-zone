@@ -16,6 +16,12 @@ This Poc Guide provide you a guidance to prepare and deploy Citrix Endpoint Mana
 Use case n°1) MDM only
 Citrix Endpoint Management solution for MDM uses cases don't need any on-prem preparation. You can use local users of the solution to perform the enrollment of the device.
 You don't need as well to bring a star certificate, this point is covered by Citrix platform.
+From Citrix Cloud launch Citrix Endpoint Management console:
+![image](https://user-images.githubusercontent.com/89078107/133486451-e8246444-04f7-4b1e-90c6-eb1b4fae6b1b.png)
+
+
+
+
 
 Use case n°2) MDM & MAM
 
