@@ -16,6 +16,9 @@ Citrix Endpoint Management is an industry acknowledged Unified Endpoint Manageme
 
 # Use case n°1) MDM only
 
+![image](https://user-images.githubusercontent.com/89078107/133591319-8cf3c703-36db-4d11-9a73-f4365d3262cc.png)
+
+
 Citrix Endpoint Management solution for MDM uses cases don't need any on-prem preparation. You can use local users of the solution to perform the enrollment of the device.
 You don't need as well to bring a star certificate, this point is covered by Citrix platform.
 From Ci# trix Cloud launch Citrix Endpoint Management console:
