@@ -14,12 +14,13 @@ Citrix Endpoint Management is an industry acknowledged Unified Endpoint Manageme
 
 # This Poc Guide provide you a guidance to prepare and deploy Citrix Endpoint Management solution with three uses cases (MDM,MDM&MAM, MDM&MAM&MicroVPN).
 
-# Use case n°1) MDM only
-
 ![image](https://user-images.githubusercontent.com/89078107/133591319-8cf3c703-36db-4d11-9a73-f4365d3262cc.png)
+Prerequisites:
+ - One device (Android +10 / iPhone)
+ - Entillment to use CEM
+For this use case you don't need to implement any on-prem components (Cloud Connector / Citrix Gateway)
 
-
-Citrix Endpoint Management solution for MDM uses cases don't need any on-prem preparation. You can use local users of the solution to perform the enrollment of the device.
+You can use local users of the solution to perform the enrollment of your devices.
 You don't need as well to bring a star certificate, this point is covered by Citrix platform.
 From Ci# trix Cloud launch Citrix Endpoint Management console:
 
