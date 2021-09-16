@@ -20,11 +20,9 @@ Prerequisites:
  - One device (Android +10 / iPhone)
  - Entillment on Citrix EndPoint Management 
 
-For this use case you don't need to implement any on-prem components (Cloud Connector / Citrix Gateway)
+To perform evaluation of MDM feature you can use local user to perform enrollment of your devices
 
-You can use local users of the solution to perform the enrollment of your devices.
-You don't need as well to bring a star certificate, this point is covered by Citrix platform.
-From Ci# trix Cloud launch Citrix Endpoint Management console:
+From Citrix Cloud portal launch Citrix Endpoint Management console:
 
 ![image](https://user-images.githubusercontent.com/89078107/133486451-e8246444-04f7-4b1e-90c6-eb1b4fae6b1b.png)
 
@@ -36,8 +34,13 @@ Next you can provide username and password information and save:
 
 ![image](https://user-images.githubusercontent.com/89078107/133488092-4ffd4297-e61b-44d6-8e64-01d8cdb37c03.png)
 
-Now we should configure connection to bind Google Play Store & Apple Store to you CEM Tenant
-1. Android Enterprise Google Play
+Now we should configure connection to bind Google Play Store & Apple Store to you CEM Tenant:
+ 
+ - Follow this operation for Android Enterprise Device
+ 
+ 
+ - This points for iPhone devices 
+
 To perform this configuration create a gmail account dedicated for this PoC
 
 
