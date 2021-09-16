@@ -17,6 +17,7 @@ Citrix Endpoint Management is an industry acknowledged Unified Endpoint Manageme
 ![image](https://user-images.githubusercontent.com/89078107/133591319-8cf3c703-36db-4d11-9a73-f4365d3262cc.png)
 
 Prerequisites:
+ - Citrix Cloud Account
  - One device (Android +10 / iPhone)
  - Entillment on Citrix EndPoint Management
  - Google Account (Gmail)
@@ -43,6 +44,14 @@ Now we should bind Google Play Store & Apple Store to you CEM Tenant:
  - This points for iPhone devices 
 
 To perform this configuration create a gmail account dedicated for this PoC
+
+
+
+
+
+
+
+
 
 
 
