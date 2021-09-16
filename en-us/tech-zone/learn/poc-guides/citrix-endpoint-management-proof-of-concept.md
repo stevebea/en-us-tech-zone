@@ -18,23 +18,24 @@ Citrix Endpoint Management is an industry acknowledged Unified Endpoint Manageme
 
 Prerequisites:
  - One device (Android +10 / iPhone)
- - Entillment on Citrix EndPoint Management 
+ - Entillment on Citrix EndPoint Management
+ - Google Account (Gmail)
 
 To perform evaluation of MDM feature you can use local user to perform enrollment of your devices
 
 From Citrix Cloud portal launch Citrix Endpoint Management console:
 
-![image](https://user-images.githubusercontent.com/89078107/133486451-e8246444-04f7-4b1e-90c6-eb1b4fae6b1b.png)
+![133486451-e8246444-04f7-4b1e-90c6-eb1b4fae6b1b](https://user-images.githubusercontent.com/89078107/133596126-ebc68adf-c06f-4c5a-bd0c-6edde34d49c6.png)
 
 Then click on Manage -> Users -> Add Local User (With this local user you can enroll any device with secure hub
 
-![image](https://user-images.githubusercontent.com/89078107/133487452-64e28345-90b6-44ab-b0d8-7ebe4f905ebb.png)
+![133488092-4ffd4297-e61b-44d6-8e64-01d8cdb37c03](https://user-images.githubusercontent.com/89078107/133596168-ff256d8d-6cef-45d0-8d27-03749eb7f0f8.png)
 
 Next you can provide username and password information and save:
 
 ![image](https://user-images.githubusercontent.com/89078107/133488092-4ffd4297-e61b-44d6-8e64-01d8cdb37c03.png)
 
-Now we should configure connection to bind Google Play Store & Apple Store to you CEM Tenant:
+Now we should bind Google Play Store & Apple Store to you CEM Tenant:
  
  - Follow this operation for Android Enterprise Device
  
