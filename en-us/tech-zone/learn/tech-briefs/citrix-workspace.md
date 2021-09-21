@@ -22,23 +22,23 @@ Citrix Workspace contains several aggregation features that enable users to acce
 
 ### Virtual Applications and Desktops Aggregation
 
-Provides the ability to aggregate a current on-premises deployment of [Citrix Virtual Apps and Desktops](/en-us/citrix-virtual-apps-desktops) alongside a [Citrix Virtual Apps and Desktops Service](/en-us/citrix-virtual-apps-desktops-service.html) resource location.
+Citrix Workspace provides the ability to aggregate a current on-premises deployment of [Citrix Virtual Apps and Desktops](/en-us/citrix-virtual-apps-desktops) alongside a [Citrix Virtual Apps and Desktops Service](/en-us/citrix-virtual-apps-desktops-service.html) resource location.
 
 ### Content Collaboration Aggregation
 
-Provides the ability to aggregate the [Citrix Content Collaboration Service](/en-us/citrix-content-collaboration.html) into the Citrix Workspace providing access to files located on-premises or within a cloud hosted solutions such as ShareFile or OneDrive.
+Citrix Workspace provides the ability to aggregate the [Citrix Content Collaboration Service](/en-us/citrix-content-collaboration.html) into the Citrix Workspace providing access to files located on-premises or within a cloud hosted solutions such as ShareFile or OneDrive.
 
 ### Web and SaaS Aggregation
 
-Aggregate’s web and SaaS applications into the Citrix Workspace which can be secured by the [Secure Workspace Access Service](https://www.citrix.com/products/citrix-secure-workspace-access/).
+Citrix Workspace aggregate’s web and SaaS applications into the Citrix Workspace which can be secured by the [Secure Workspace Access Service](https://www.citrix.com/products/citrix-secure-workspace-access/).
 
 ### Microapp Aggregation
 
-Aggregates microapp notifications, actions, and the intelligent feed delivered through the [Citrix Microapp Service](/en-us/citrix-microapps.html) into the Citrix Workspace.
+Citrix Workspace aggregates microapp notifications, actions, and the intelligent feed delivered through the [Citrix Microapp Service](/en-us/citrix-microapps.html) into the Citrix Workspace.
 
 ### Secure Browser Service Aggregation
 
-Integrates the [Citrix Secure Browser Service](/en-us/citrix-cloud/secure-browser-service.html) into the Citrix Workspace to isolate web browsing and protect the corporate network from browser-based attacks.
+Citrix Workspace integrates the [Citrix Secure Browser Service](/en-us/citrix-cloud/secure-browser-service.html) into the Citrix Workspace to isolate web browsing and protect the corporate network from browser-based attacks.
 
 ### Citrix Analytics
 
