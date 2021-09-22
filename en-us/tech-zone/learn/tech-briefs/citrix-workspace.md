@@ -10,7 +10,7 @@ tz_products: citrix-workspace
 
 ## Overview
 
-Citrix Workspace is a complete digital workspace solution that delivers secure access to the information, apps, and other content that is relevant to a person’s role in your organization. Users subscribe to the services you make available and can access them from anywhere, on any device. Citrix Workspace allows you to deploy applications and desktops faster and helps you organize and automate the most important details that your users need to collaborate, make better decisions, and focus on their work.  Citrix Workspace contains features and functionalities to provide users access to their digital workspace.
+Citrix Workspace is a complete digital workspace solution that delivers secure access to the information, apps, and other content that is relevant to a person’s role in your organization. Users subscribe to the services you make available and can access them from anywhere, on any device. Citrix Workspace allows you to deploy applications and desktops faster and helps you organize and automate the most important details that your users need to collaborate, make better decisions, and focus on their work.  Citrix Workspace contains many features and functionalities to provide users access to their digital workspace.
 
 ![[Citrix Workspace](/en-us/tech-zone/learn/media/tech-briefs_citrixworkspace-user-experience-overview.png)](/en-us/tech-zone/learn/media/tech-briefs_citrixworkspace-user-experience-overview.png)
 
